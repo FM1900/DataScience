@@ -5,7 +5,7 @@
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
+# Fernando M
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
 As a experienced System Analyst and Lawyer I combine analytical skills, ability to work in team environments, and attention to details. 
