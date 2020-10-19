@@ -18,8 +18,9 @@ As a experienced System Analyst and Lawyer I combine analytical skills, ability 
 
 
 ## Projetos:
+<!--
 Veja os tutoriais publicados do :
-<i> 
+<!--
 * **Como usar o Histograma para Data Science: 
 * **Como Implementar Regressão Linear com Python:
 * **Data Science: Investigando o naufrágio do Titanic:
@@ -28,7 +29,6 @@ Veja os tutoriais publicados do :
 * **Como criar uma Wordcloud em Python:** 
 * **Como lidar com dados desbalanceados:** 
 
-</i>
 ---
 
 
