@@ -19,15 +19,16 @@ As a experienced System Analyst and Lawyer I combine analytical skills, ability 
 
 ## Projetos:
 Veja os tutoriais publicados do :
+<i> 
+* **Como usar o Histograma para Data Science: 
+* **Como Implementar Regressão Linear com Python:
+* **Data Science: Investigando o naufrágio do Titanic:
+* **Como Tratar Dados Ausentes com Pandas:** 
+* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** 
+* **Como criar uma Wordcloud em Python:** 
+* **Como lidar com dados desbalanceados:** 
 
-//* **Como usar o Histograma para Data Science:
-//* **Como Implementar Regressão Linear com Python:
-//* **Data Science: Investigando o naufrágio do Titanic:
-//* **Como Tratar Dados Ausentes com Pandas:** 
-//* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** 
-//* **Como criar uma Wordcloud em Python:** 
-//* **Como lidar com dados desbalanceados:** 
-
+</i>
 ---
 
 
